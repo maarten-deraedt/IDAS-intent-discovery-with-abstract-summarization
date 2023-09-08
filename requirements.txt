@@ -1,0 +1,8 @@
+scikit-learn
+torch
+huggingface
+datasets
+transformers
+nltk
+sentence-transformers
+openai
